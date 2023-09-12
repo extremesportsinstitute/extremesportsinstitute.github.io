@@ -1,0 +1,221 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    color: black;
+    text-align: center;
+}
+
+
+header {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+}
+header img {
+        padding-top: 10px;
+        height: 250px;
+        width: auto;
+        justify-items: center;
+}
+div {
+    display: block;
+    max-width: 100%;
+}
+
+.top-text {
+    width: 100%;
+    background-color: black;
+    border-radius: 8px;
+}
+
+.sponsor-opp {
+    color: white;
+    font-weight: bolder;
+    font-size: 2rem;
+    letter-spacing: 4px;
+    padding-bottom: 1rem;;
+}
+
+.top-p {
+    color: white;
+    font-weight: bold;
+    color: red;
+}
+
+
+.top-text h2, h4, h1 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    color: white;
+    margin: 10px 0;
+}
+
+.top-text h1 {
+    color: white;
+    padding-top: 1rem;
+}
+
+#board {
+    background-color: whitesmoke;
+    border-radius: 8px;
+}
+
+.board-members {
+    display: flex;
+    width: 100%;
+}
+
+.board-members img {
+    display: flex;
+    margin: auto;
+    width: 200px;
+    height: auto;
+    padding-top: 2rem;
+}
+
+.board-members-text {
+    font-size: 3rem;
+    color: white;
+    padding: 2rem;;
+    background-color: black;
+    letter-spacing: 4px;
+    border-radius: 8px;
+    font-weight: bolder;
+}
+
+.board-text {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.content {
+    background-color: whitesmoke;
+    border-radius: 8px;
+}
+
+.content-text {
+    color: white;
+    font-size: 3rem;
+    background-color: black;
+    padding: 2rem;
+    border-radius: 8px;
+    font-weight: bolder;
+}
+
+.purpose-text {
+    line-height: 2.5rem;
+    text-align: left;
+    display: block;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+
+.plan-text {
+    background-color: black;
+    color: white;
+    font-size: 3rem;
+    font-weight: bolder;
+    padding: 3rem;
+    border-radius: 8px;
+}
+
+.plan {
+    background-color: whitesmoke;
+    border-radius: 8px;
+}
+
+.plan img {
+   align-items: center;
+    width: 400px;
+    height: auto;
+}
+
+#plan .content p {
+    font-size: 1rem;
+    font-style: italic;
+}
+
+.plan-text-bottom {
+    padding-bottom: 2rem;
+}
+
+
+.sponsorship-top-text {
+    margin-top: 3rem;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+}
+
+.top-text-3 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-size: 3rem;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.sponsorship-levels {
+   
+}
+.levels img {
+    width: 300px;
+    height: auto;
+}
+
+.levels h4 {
+    color: black;
+    display: flex;
+    float: left;
+}
+
+.levels p {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.sign-up img {
+    padding-top: 25px;
+    width: 250px;
+    height: auto;
+}
+
+.form {
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+}
+
+.form-text {
+   padding-top: 1rem;
+   font-size: 3rem;
+   font-weight: bolder;
+   letter-spacing: 2px;
+}
+
+.form-span {
+    padding-bottom: 1.5rem;
+    font-style: italic;
+}
+
+.footer {
+    background-color: black;
+    border-radius: 8px;
+    padding-bottom: 1rem;
+}
+
+.footer-text {
+    color: white;
+    font-size: 2rem;
+    padding-top: 1rem;
+}
+
+.footer-span {
+    color: white;
+    font-size: 1rem;
+}
